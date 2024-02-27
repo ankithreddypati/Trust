@@ -15,8 +15,10 @@ My motive is to show how cooperation emerges as evolution carved out a hidden co
 ![spatialcom2](https://github.com/ankithreddypati/Trust/assets/113855501/9046abbd-8133-459d-aeff-583601dd1d78)
 
 
-These are the four fundamental principles distilled from game theory, further fortified through my gameplay experience.
-1.Be Nice = Dont be the first to defect 
-2.Be Forgiving = Forgiveness can prevent retaliatory cycles 
-3.Be Retaliatory = Be nice but dont be a pushover, retaliate when required
-4.Be Clear = Clarity prevents misunderstandings
+These are the four fundamental principles distilled from game theory, further fortified through my gameplay experience. 
+
+1. **Be Nice** = Don't be the first to defect
+2. **Be Forgiving** = Forgiveness can prevent retaliatory cycles
+3. **Be Retaliatory** = Be nice but don't be a pushover, retaliate when required
+4. **Be Clear** = Clarity prevents misunderstandings
+
