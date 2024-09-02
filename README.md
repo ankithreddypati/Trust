@@ -2,6 +2,11 @@
 
 I made this game for Swift student 2024 Challenge and won
 
+<table><tr>
+<td><img src="resultimages/result1.gif" alt="Result 1" width="300"/></td>
+<td><img src="resultimages/result2.jpg" alt="Result 2" width="300"/></td>
+</tr></table>
+
 **Gameplay**
 The game involves multiple rounds, where the human player and the alien make decisions on whether to cooperate or defect in resource sharing. The outcome of each round depends on both players' actions. This game is a classical representation of prisoner's dilemma, a thought experiment from game theory 
 
